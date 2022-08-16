@@ -1,0 +1,8 @@
+module go-blockchain
+
+go 1.17
+
+require (
+	github.com/btcsuite/btcutil v1.0.2 // indirect
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa // indirect
+)
